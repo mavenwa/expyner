@@ -17,7 +17,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions, feedback, or inquiries about ExPyner, don't hesitate to reach out via email at [mavenwa@email.com](mailto:mavenwa@email.com).
-
----
-
-This revised version provides a more detailed overview of ExPyner's objectives and usage while removing the installation instructions. Feel free to adjust it further as needed!
