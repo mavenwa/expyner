@@ -16,7 +16,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feedback, or inquiries about ExPyner, don't hesitate to reach out via email at [youremail@example.com](mailto:youremail@example.com).
+If you have any questions, feedback, or inquiries about ExPyner, don't hesitate to reach out via email at [mavenwa@email.com](mailto:mavenwa@email.com).
 
 ---
 
